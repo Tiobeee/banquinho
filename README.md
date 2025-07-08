@@ -1,1 +1,1 @@
-/home/be_note/Documentos/códigos/banquinho/server.js
+Um banquinho de Dados com funções simples para aquecer a mente.
